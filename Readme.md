@@ -3,3 +3,6 @@ This repository contain folders for each experiment performed during the semeste
 <i><b>Each folder includes :</b></i><br>
 .ino file - contains the code for Arduino<br>
 .docx file - A report of the experiment
+
+
+https://www.tinkercad.com/things/fO1UdyDjATG-smooth-vihelmo/editel
